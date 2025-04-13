@@ -8,7 +8,7 @@
 This project is a capstone submission for Module 2 of the Data Science program at Purwadhika.  
 We explore what drives **price** and **performance** of Airbnb listings in **Bangkok**, by analyzing factors such as location, reviews, room types, and host behavior.
 
-Through this end-to-end data analytics pipeline, we prepare a polished dataset and deliver interactive **visual storytelling** using **Looker Studio**.
+Through this end-to-end data analytics pipeline, I'm prepare a polished dataset and deliver interactive **visual storytelling** using **Looker Studio**.
 
 ---
 
@@ -113,11 +113,3 @@ These insights are valuable for:
 - **Looker Studio Dashboard**: [View Here](https://lookerstudio.google.com/reporting/1bedb78e-2d11-4759-9dda-e679e42dafd4)
 - **LinkedIn**: [Profile](https://www.linkedin.com/in/dhymasmf/)
 - **Presentation**: [View Here](https://www.canva.com/design/DAGkXAU6TXU/2O0cOD6MHrSYSVx9bEps_g/view?utm_content=DAGkXAU6TXU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5e7dd9d53d)
-
----
-
-## Acknowledgements
-
-Big thanks to:
-- **Purwadhika**
-- **Inside Airbnb** for open data
