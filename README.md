@@ -112,7 +112,7 @@ These insights are valuable for:
 
 - **Looker Studio Dashboard**: [View Here](https://lookerstudio.google.com/reporting/1bedb78e-2d11-4759-9dda-e679e42dafd4)
 - **LinkedIn**: [Profile](https://www.linkedin.com/in/dhymasmf/)
-- **Presentation**: [View Here](https://www.canva.com/design/DAGkXAU6TXU/8vJkI0g7L12PieqsE0xqEQ/edit?utm_content=DAGkXAU6TXU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- **Presentation**: [View Here](https://www.canva.com/design/DAGkXAU6TXU/2O0cOD6MHrSYSVx9bEps_g/view?utm_content=DAGkXAU6TXU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5e7dd9d53d)
 
 ---
 
