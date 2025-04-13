@@ -12,7 +12,7 @@ Through this end-to-end data analytics pipeline, we prepare a polished dataset a
 
 ---
 
-## 🔍 Problem Statement
+## Problem Statement
 
 > **What are the key factors that influence the success and pricing of Airbnb listings in Bangkok?**
 
